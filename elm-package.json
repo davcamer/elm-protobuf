@@ -1,7 +1,7 @@
 {
-    "version": "2.0.1",
-    "summary": "Google Protocol Buffers runtime library",
-    "repository": "https://github.com/tiziano88/elm-protobuf.git",
+    "version": "1.0.0",
+    "summary": "Google Protocol Buffers runtime library (patched tiziano88/elm-protobuf)",
+    "repository": "https://github.com/davcamer/elm-protobuf.git",
     "license": "MIT",
     "source-directories": [
         "src"
